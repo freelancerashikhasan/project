@@ -67,6 +67,34 @@
                     </form>
                 </div>
             </div>
+
+            <div class="card mt-3">
+                <div class="card-title text-center text-info">
+                    Username & Passwords
+                </div>
+                <div class="card-body">
+                    <table class="table table-bordered">
+                        <tr>
+                            <td>Role</td>
+                            <td>Username</td>
+                            <td>Password</td>
+                        </tr>
+                        <tr>
+                            <td>Admin</td>
+                            <td>admin@gmail.com</td>
+                            <td>12345678</td>
+                        </tr>
+                        <tr>
+                            <td>User</td>
+                            <td>ahashik112002@gmail.com</td>
+                            <td>12345678</td>
+                        </tr>
+                        <tr>
+                            <td colspan="3"><span class="text-danger">Admin & user can create from admin panel also.</span></td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
         </div>
     </div>
 </div>
